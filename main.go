@@ -13,8 +13,8 @@ func main() {
 	token := ""
 
 	// Replace with your GitHub username and repository name
-	owner := "tharunrede"
-	repo := "go-write-test"
+	owner := ""
+	repo := ""
 
 	ctx := context.Background()
 	ts := oauth2.StaticTokenSource(
